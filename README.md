@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @Funshodgreat
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+PROFILE
+NAME:FOLORUNSHO ABUBAKAR ABDULAZEEZ
+
+DEPARTMENT: LIBRARY AND INFORMATION SCIENCE
+
+MATRIC NUMBER: 20/47LS/01334
+
+COURSE CODE: CSC 208
+
+QUALIFICAIONS: WEB DEVELOPOER AND BLOGGER
 
 <!---
 Funshodgreat/Funshodgreat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
